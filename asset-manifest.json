@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b02bbe2.css",
+    "main.css": "/static/css/main.870d0d33.css",
     "main.js": "/static/js/main.97db271f.js",
     "static/js/787.bb2a99ac.chunk.js": "/static/js/787.bb2a99ac.chunk.js",
     "static/media/FoundersGrotesk-SemiboldItalic.otf": "/static/media/FoundersGrotesk-SemiboldItalic.9be0e7b4ba43da406150.otf",
@@ -19,12 +19,12 @@
     "static/media/back-arrow.svg": "/static/media/back-arrow.9370fb9ec0af3c1161daaf2ff3f7f988.svg",
     "static/media/tick-fill.svg": "/static/media/tick-fill.5d2f57ef01827c7d455e9d3f134595c3.svg",
     "static/media/minus.svg": "/static/media/minus.b506f44b4c2cf6c2918e2e62c95b1d29.svg",
-    "main.8b02bbe2.css.map": "/static/css/main.8b02bbe2.css.map",
+    "main.870d0d33.css.map": "/static/css/main.870d0d33.css.map",
     "main.97db271f.js.map": "/static/js/main.97db271f.js.map",
     "787.bb2a99ac.chunk.js.map": "/static/js/787.bb2a99ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b02bbe2.css",
+    "static/css/main.870d0d33.css",
     "static/js/main.97db271f.js"
   ]
 }
